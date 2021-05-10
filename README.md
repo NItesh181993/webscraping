@@ -10,7 +10,7 @@ What you need to run this app:
 ### Setup
 
 * Clone this repo:
-
+https://github.com/NItesh181993/webscraping.git
 
 * Run this command:
 
@@ -25,8 +25,7 @@ npm install
 ```
 node index.js
 
-#### 2) Open the app in your browser:
-
+2) URL for webscraping testing (Use Postman)
 ```
 http://localhost:3000/scrap 
 
@@ -36,7 +35,7 @@ http://localhost:3000/scrap
   
     In the Empty workspace add:
     {
-      "url":"https://www.youtube.com"
+      "url":"https://www.youtube.com"  //could use any other URL also
     }
     
    ** Then click on Submit Button, you will see the output on the console below.**
