@@ -30,15 +30,17 @@ node index.js
 ```
 
 **2) URL for webscraping testing (Use Postman)**
+```
 http://localhost:3000/scrap 
+```
 
 3) **Use a Postman application then select a method as a "POST" and enter the above mentioned URL in the Url section in the Postman and then in body section select raw and change the text as JSON**.
 
   **Dont Forget to Add http or https before adding the url in the postman**
-  
+  ```
     In the Empty workspace add:
     {
       "url":"https://www.youtube.com"  //could use any other URL also
     }
-    
-   ** Then click on Submit Button, you will see the output on the console below.**
+  ```  
+   Then click on Submit Button, you will see the output on the console below.
