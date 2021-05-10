@@ -27,8 +27,9 @@ npm install
 ```
 node index.js
 
-2) URL for webscraping testing (Use Postman)
 ```
+
+**2) URL for webscraping testing (Use Postman)**
 http://localhost:3000/scrap 
 
 3) **Use a Postman application then select a method as a "POST" and enter the above mentioned URL in the Url section in the Postman and then in body section select raw and change the text as JSON**.
